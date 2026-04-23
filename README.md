@@ -13,7 +13,7 @@ I'm a **Cryptology and Cybersecurity** student at the **Military University of T
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-00A9E0?style=flat-square&logo=wazuh&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?style=flat-square&logo=tryhackme&logoColor=red)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
 
 #### 🏮 Personal Interests:
 * **Cat Fan:** Huge fan of cats – they are the best study companions during long nights. 🐈
@@ -22,7 +22,7 @@ I'm a **Cryptology and Cybersecurity** student at the **Military University of T
 
 #### 📫 Let's connect:
 * **LinkedIn:** [Jan Skrzydłowski](https://www.linkedin.com/in/jan-skrzyd%C5%82owski-82232b3b5/) 💼
-* **TryHackMe:** [Your Profile](https://tryhackme.com/p/Tennzin03) 🛡️
+* **TryHackMe:** [![TryHackMe](https://img.shields.io/badge/-Tennzin03-212c42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Tennzin03)
 
 
 ---
